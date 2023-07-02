@@ -37,4 +37,8 @@ if ($captchaCode === $validCaptchaCode) {
 // End code Glua
 ```
 
+- Demo : 
+
+![alt text](https://github.com/Kurama250/Gmod_drm/blob/main/drm.png?raw=true)
+
 <h1 align="center">Then it's the end you have started the bot have fun !</h1>
