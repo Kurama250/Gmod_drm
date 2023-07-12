@@ -31,14 +31,14 @@ https://domain_name.name/api/drm.php?captcha=YOUR_CODE
 ```php
 You must put your Glua code in the place provided for this purpose !
 
-if ($captchaCode === $validCaptchaCode) {
-echo "
+        if ($captchaCode === $validCaptchaCode) {
+            $gluaCode = "
+                // Start code Glua
 
-// Start code Glua
-// ...
-// End code Glua
+                // ...
 
-";
+                // End code Glua
+            ";
 ```
 
 - Demo : 
