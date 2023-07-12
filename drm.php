@@ -13,15 +13,20 @@ if (strpos($_SERVER['HTTP_USER_AGENT'], 'Valve/Steam HTTP Client 1.0 (4000)') !=
         // https://domain_name.name/api/drm.php?captcha=YOUR_CODE
 
         if ($captchaCode === $validCaptchaCode) {
-            // Start code Glua
-            // ...
-            // End code Glua
-            echo "Glua code sent !";
+            $gluaCode = "
+                // Start code Glua
+
+                // ...
+
+                // End code Glua
+            ";
+
+            echo "GLua code sent!";
         } else {
-            echo "Captcha code not valid !";
+            echo "Captcha code not valid!";
         }
     } else {
-        echo "IP Address not allowed !";
+        echo "IP Address not allowed!";
     }
 } else {
     echo "UserAgent not good.";
