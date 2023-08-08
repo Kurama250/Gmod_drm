@@ -1,7 +1,7 @@
 <h1 align="center">Script for a drm Garry's Mod</h1>
 <em><h5 align="center">(Programming Language - Php)</h5></em>
 
-# Tutorial to config !
+# Tutorial to config script !
 
 - 1 : Download script
 - 2 : Open (drm.php)
