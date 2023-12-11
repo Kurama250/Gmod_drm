@@ -1,6 +1,13 @@
 <h1 align="center">Script for a drm Garry's Mod</h1>
 <em><h5 align="center">(Programming Language - Php)</h5></em>
 
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Kurama250/Gmod_drm">
+  <img src="https://img.shields.io/github/license/Kurama250/Gmod_drm">
+  <img src="https://img.shields.io/github/repo-size/Kurama250/Gmod_drm">
+  <img src="https://img.shields.io/badge/stability-stable-green">
+</p>
+
 # Tutorial to config script !
 
 - 1 : Download script
