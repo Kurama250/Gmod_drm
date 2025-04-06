@@ -52,5 +52,6 @@ You must put your Glua code in the place provided for this purpose !
 
 ![alt text](https://github.com/Kurama250/Gmod_drm/blob/main/drm.png?raw=true)
 
+<h3 align="center"><strong>Support on Discord :</strong> <a href="https://discord.gg/6aebQGdDxB">Discord</a></3>
 <h3 align="center">If you like this repository don't hesitate to give it a star ⭐ !</h3>
 <h1 align="center">Then it's the end you have modified the script have fun !</h1>
